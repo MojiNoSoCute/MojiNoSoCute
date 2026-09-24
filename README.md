@@ -32,6 +32,7 @@ Software Engineering Student & Full-Stack Developer passionate about building re
 
 ### 📊 GitHub Activity
 
-![Moji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MojiNoSoCute&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MojiNoSoCute&layout=compact&theme=tokyonight&hide=html,css)
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MojiNoSoCute&show_icons=true&theme=tokyonight&count_private=true" alt="Moji's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MojiNoSoCute&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
