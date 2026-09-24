@@ -5,7 +5,7 @@ Software Engineering Student & Full-Stack Developer passionate about building re
 - 🔭 **Featured Project:** [bus-tracker-2](https://github.com/MojiNoSoCute/bus-tracker-2) — Real-time campus transit tracking via WebSockets & Geolocation API.
 - 🛠️ **Core Tech:** Node.js, TypeScript, React, Express, Go, Docker, PostgreSQL
 - 🌱 **Currently Exploring:** Cloud Native Architectures & Automated CI/CD Pipelines
-- 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) | [Email](mailto:your.email@example.com)
+- 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/Watcharakorn I) | [Email](mailto:watcharakorn820@gmail.com)
 
 ---
 
